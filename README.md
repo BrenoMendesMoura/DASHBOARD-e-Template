@@ -2,6 +2,7 @@
 > A ideia principal é salvar alguns tamplates para serem usados futuramente, além de registrar alguns dashboards que realizei até o momento.
 
 <hr>
+
 # Dashboard
 
 > Dash conectado a steam-web api, puxei a quantidade de jogadores conectados no momento.
@@ -13,6 +14,7 @@
 <hr>
 
 # Template
+
 > Green and blue - Template
 > 
 > Template realizado no figma
