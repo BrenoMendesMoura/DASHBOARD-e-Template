@@ -1,5 +1,5 @@
 # Template & Dashboard
-> A ideia principal é salvar alguns tamplates para serem usados futuramente, além de registrar alguns dashboards que realizei até o momento.
+> A ideia principal é salvar alguns templates para serem usados futuramente, além de registrar alguns dashboards que realizei até o momento.
 
 <hr>
 
