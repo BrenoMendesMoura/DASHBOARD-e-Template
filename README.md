@@ -23,4 +23,12 @@
 > 
 ![Green and blue - Template, view](https://user-images.githubusercontent.com/80074264/201501996-258a2195-ef99-4a1e-9a18-1c15a22cb027.png)
 
+<br>
 
+> Brown - Template
+> 
+> Template realizado no figma
+> 
+> Muda a cor de acordo com a aba selecionada
+> 
+![Brown - Template, view](https://user-images.githubusercontent.com/80074264/201502100-af2e0f34-f858-4d87-9920-5f7c61949938.png)
